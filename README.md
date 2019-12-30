@@ -1,1 +1,0 @@
-# gorbovskid.github.io
