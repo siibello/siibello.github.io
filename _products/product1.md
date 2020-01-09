@@ -1,6 +1,6 @@
 ---
 identifier: RZ-SN
-name: Healing Joint Pain Naturally: Safe and Effective Ways to Treat Arthritis, Fibromyalgia, and Other Joint Diseases Paperback – June 12, 2001
+name: Healing Joint Pain Naturally
 price: 79.95
 image: /assets/images/starry-night.jpg
 ---
