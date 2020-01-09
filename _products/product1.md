@@ -1,6 +1,6 @@
 ---
 identifier: RZ-SN
-name: Healing Joint Pain Naturally
+name: Book: Healing Joint Pain Naturally
 price: 79.95
 image: /assets/images/starry-night.jpg
 ---
