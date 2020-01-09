@@ -4,4 +4,4 @@ name: Starry Night
 price: 79.95
 image: /assets/images/starry-night.jpg
 ---
-High-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh.
+Healing Joint Pain Naturally: Safe and Effective Ways to Treat Arthritis, Fibromyalgia, and Other Joint Diseases Paperback – June 12, 2001
