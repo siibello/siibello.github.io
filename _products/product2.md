@@ -1,6 +1,6 @@
 ---
 identifier: RZ-IR
-name: Healing Arthritis: Your 3-Step Guide
+name: Healing Arthritis - 3-Step Guide
 price: 64.95
 image: /assets/images/irises.jpg
 ---
